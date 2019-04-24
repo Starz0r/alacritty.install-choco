@@ -1,6 +1,6 @@
 $packageName = "alacritty.install"
-$url = "https://github.com/jwilm/alacritty/releases/download/v0.3.0/Alacritty-v0.3.0-windows-installer.msi"
-$checksum = "B86043210BC4CDE2AD2552A43C11F0A81265C70E9F4F374F66AA383698E9A43027D7F516BCDE320755C371AAF168EB5F7DB996F4511184DA44E5FDBA5B1CE101"
+$url = "https://github.com/jwilm/alacritty/releases/download/v0.3.1/Alacritty-v0.3.1-windows-installer.msi"
+$checksum = "16E6AF3DFFBB076055FE9E2E462A5FD08838A947A023451C45791AAECC025B74697A5AEB265E79A2A1E50D2DC69A80BCD8E372CF68DBB97F8015A1E3E9C67274"
 
 $ErrorActionPreference = 'Stop'
 $toolsPath = Split-Path $MyInvocation.MyCommand.Definition
